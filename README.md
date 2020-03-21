@@ -1,1 +1,2 @@
 "# DumbWays" 
+"Bahasa pemrograman : Python" 
